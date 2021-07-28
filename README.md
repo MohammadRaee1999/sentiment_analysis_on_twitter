@@ -1,1 +1,1 @@
-# sentiment_analysis
+# sentiment_analysis_on_MNIST
