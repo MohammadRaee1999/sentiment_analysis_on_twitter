@@ -1,1 +1,9 @@
-# sentiment_analysis_on_MNIST
+# requirements
+### pandas~=1.2.0
+### numpy~=1.19.2
+### matplotlib~=3.3.1
+### seaborn~=0.11.1
+### nltk~=3.5
+### wordcloud~=1.8.1
+### scikit-learn~=0.23.2
+### gensim~=3.7.3
